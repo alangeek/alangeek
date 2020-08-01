@@ -3,6 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 📫 How to reach me: ... [Website](https://google.com)
+- 📫 How to reach me: [Website](https://google.com)
 
 
