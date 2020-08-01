@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Website](https://google.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half Finnish
+- ⚡ Fun fact: ... I love Coffe
 
