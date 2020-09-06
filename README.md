@@ -7,11 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangeek&layout=compact" />
 </div>
 
-[![LinkedIn](https://img.icons8.com/plasticine/170/000000/linkedin.png)](https://www.linkedin.com/in/alan-christian)
-[![Twitter](https://img.icons8.com/plasticine/170/000000/twitter.png)](https://twitter.com/alnbrawn)
-[![Portfolio](https://img.icons8.com/plasticine/170/000000/box.png)](https://alanchristian.co/)
-[![Facebook](https://img.icons8.com/plasticine/170/000000/facebook.png)](facebook.com/alan.christian.7902)
-[![Instagram](https://img.icons8.com/plasticine/170/000000/instagram-new.png)](https://www.instagram.com/alan.christian.dev)
+[![LinkedIn](https://img.icons8.com/plasticine/160/000000/linkedin.png)](https://www.linkedin.com/in/alan-christian)
+[![Twitter](https://img.icons8.com/plasticine/160/000000/twitter.png)](https://twitter.com/alnbrawn)
+[![Portfolio](https://img.icons8.com/plasticine/160/000000/box.png)](https://alanchristian.co/)
+[![Facebook](https://img.icons8.com/plasticine/160/000000/facebook.png)](facebook.com/alan.christian.7902)
+[![Instagram](https://img.icons8.com/plasticine/160/000000/instagram-new.png)](https://www.instagram.com/alan.christian.dev)
 
 Here are some ideas to get you started:
 
